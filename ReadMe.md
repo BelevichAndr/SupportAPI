@@ -1,6 +1,6 @@
-#SupportAPI
-***
-###Application for the support service.
+<h1>SupportAPI</h1>
+
+##Application for the support service.
 ***
 Realized custom user model, divided into two users.  
 A customer and a support worker. Clients can write a ticket, support can respond to it, the client can enter into a dialogue and conduct it indefinitely, respectively, 
